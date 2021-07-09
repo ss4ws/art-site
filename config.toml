@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://attentionreflectiontracker.net/"
 languageCode = "en"
 title = "Attention & Reflection Tracker"
 author = "Spyridon Simotas"

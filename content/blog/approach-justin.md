@@ -1,8 +1,8 @@
 ---
-title: "Metacognition"
-subtitle: ""
+title: "Justin's approach"
+subtitle: "This is the subtitle"
 excerpt: ""
-date: 2019-07-02
+date: 2021-07-08
 author: "Spyridon Simotas"
 draft: false
 images:
@@ -19,3 +19,4 @@ layout: single-sidebar
 ---
 
 ### 
+

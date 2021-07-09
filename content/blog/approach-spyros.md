@@ -1,5 +1,5 @@
 ---
-title: "Mindfulness"
+title: "Spyros's approach to ART"
 subtitle: "There is a plethora of contemplative practices available specifically designed for the classroom. The following exercise is just an example of how I have integrated a brief meditation practice in the beginning of each class session."
 excerpt: "In the beginning of each class session I invite my students to sit quiet for 2 minutes. I call this moment pause, meditation, quiet moment because I don't want to taint it in any particular way. Since it is recurring in each class session it becomes almost a ritual for the community that my students and I constitute in that particular class, that particular semester.."
 date: 2021-07-01
@@ -11,9 +11,13 @@ images:
 series:
   - Getting Started with ART 
 tags:
-  - Mindfulness
+  - mindfulness
+  - meta-cognition
+  - making
 categories:
-  - Mindfulness
+  - mindfulness
+  - meta-cognition
+  - making
 # layout options: single or single-sidebar
 layout: single-sidebar
 ---
