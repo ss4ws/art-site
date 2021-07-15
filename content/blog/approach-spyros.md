@@ -48,8 +48,7 @@ As its name suggests, ART also claims an aesthetic territory within the field of
 
 
 
-
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUSNwCEv-1DuDsy_ztfXrPtYasfD7BiuKpitk7483PaEwB5g/viewform?embedded=true" width="600" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 

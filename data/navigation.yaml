@@ -5,9 +5,9 @@ header:
   - name: Vision
     title: Our Vision for this Project
     url: /vision/
-  - name: Demo
-    title: ART Demo
-    url: /demo/
+  #- name: Demo
+   # title: ART Demo
+    #url: /demo/
   - name: Blog
     title: Blog
     url: /blog/
