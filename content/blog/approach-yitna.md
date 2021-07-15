@@ -1,7 +1,7 @@
 ---
 title: "ART and ePortfolios"
-subtitle: ""
-excerpt: ""
+subtitle: "subtitle text goes here"
+excerpt: "exerpt text goes here"
 date: 2021-07-15
 author: "Yitna"
 draft: false
