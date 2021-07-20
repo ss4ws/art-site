@@ -1,6 +1,6 @@
 ---
 title: "ART and ePortfolios"
-subtitle: "subtitle text goes here"
+subtitle: "A mysterious connection"
 excerpt: "Read this post to see how ART was used in an ePortfolio course (includes  data collection form and sample result)."
 date: 2021-07-15
 author: "Yitna"
