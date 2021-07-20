@@ -23,10 +23,6 @@ layout: single-sidebar
 ---
 
 
-# ⚠️
-this post needs revision ⚠️
-
-# ⚠️
 
 ### Mindfulness 
 
@@ -50,8 +46,38 @@ As its name suggests, ART also claims an aesthetic territory within the field of
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUSNwCEv-1DuDsy_ztfXrPtYasfD7BiuKpitk7483PaEwB5g/viewform?embedded=true" width="600" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+# Questions to add to the form 
+
+## Attention 
+
+- Which activity capture more your attention today? / For which activity you were more focused today? 
+
+- Which activity capture least your attention today? / For which activity you were less focused today? 
+
+- Overall, in a scale from 1 to 10 how would you evaluate your focus? 
 
 
+### Alternative questions about Attention 
+
+Put theses extremes on a scale: 
+
+- At least one or more activities captured your attention today and while working on them you experienced some degree of the following: you felt motivated, you knew how to go about it, and/or that the challenge was matching your skills. 
+
+- At least one or more activities captured your attention today and while working on them you experienced some degree of the following: you felt demotivated, you didn't know how to go about it, you felt worried and/or anxious the challenge didn't match your skills.
+
+
+With ART students are invited to approach their learning beyond judgment and grades. Students observe closely which activities capture their attention Rather, they see that learning is a non-linear process. 
+
+
+## Skill vs challenge 
+
+- How challenging where the activities today? Did they match your skill set? 
+
+1. Challenge < skills. You felt apathy or boredom.
+3. Challenge > skills. You felt worry or anxiety.  
+2. Challenge = skills. You felt in control, or even you experienced flow. 
+
+in fact, most positive experiences of flow occur when both challenges and skills are above their average point.
 
 
 

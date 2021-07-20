@@ -1,4 +1,9 @@
 *.DS_Store
+
+# exclude Hugo's output
 public/
+
 resources/
+
+# exlude JS dependencies
 node_modules/

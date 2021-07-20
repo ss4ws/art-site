@@ -1,4 +1,4 @@
-# _Blogophonic_ - a blog theme for Hugo by [Formspree](https://formspree.io)
+<!-- # _Blogophonic_ - a blog theme for Hugo by [Formspree](https://formspree.io)
 
 A modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
 
@@ -211,3 +211,4 @@ Additionally the following assets have separate licenses:
 
 - **Blogophonic Logo:** "Blog" (in black) by [Alex Berkowitz](https://thenounproject.com/term/blog/19895) from the Noun Project. Licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode). 
 - **Social Icons:** Free SVG icons for popular brands by [Simple Icons](https://simpleicons.org). Licensed under [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md).
+ -->

@@ -1,6 +1,6 @@
 ---
 title: "Making"
-subtitle: "Going from digital to physical."
+subtitle: "Making  ."
 excerpt: "Data visualization and making."
 date: 2019-07-01
 author: "Spyridon Simotas"
@@ -20,6 +20,8 @@ categories:
 layout: single
 ---
 
+
+When making and making-of blur the lines. What ART is an idea of a process to make your learning experience an art project, to see your life as an art project in the making. 
 
 ### Data visualization and making 
 
