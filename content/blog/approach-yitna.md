@@ -1,7 +1,7 @@
 ---
 title: "ART and ePortfolios"
 subtitle: "subtitle text goes here"
-excerpt: "exerpt text goes here"
+excerpt: "Read this post to see how ART was used in an ePortfolio course (includes  data collection form and sample result)."
 date: 2021-07-15
 author: "Yitna"
 draft: false
