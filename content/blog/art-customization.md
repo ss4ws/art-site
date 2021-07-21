@@ -11,12 +11,10 @@ images:
 series:
   - Getting Started with ART
 tags:
-  - making
-  - visualization
-  - digital 
-  - physical 
+  - Questionnaire
+  - Customization
 categories:
-  - making
+  - Customization
 layout: single
 ---
 
