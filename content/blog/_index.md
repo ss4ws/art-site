@@ -1,7 +1,7 @@
 ---
 title: Blog
-description: "Documentation, demonstrations, thoughts, & reflections."
-author: The ART team
+description: "Docs, demos, thoughts, & reflections."
+# author: The ART team
 images:
   - 
 date: 2021-07-08
