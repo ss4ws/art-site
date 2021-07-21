@@ -41,6 +41,7 @@ With every entry, students record a specific coordinate in their learning journe
 ### Making
 
 As its name suggests, ART also claims an aesthetic territory within the field of personal analytics. While all quantified-self enthusiasts expect statistical evidence to shed light on unsuspected patterns of their behavior, with ART, we also learn to value patterns themselves. In this case, students see the patterns issued from ART as abstract portraits of themselves. For that reason, we encourage students to take advantage of the variety of makerspaces and technologies available on UVA Grounds, new and old, to bring their portraits to life and keep them as mementos from the course. In previous semesters, my students and I have made patches using the Bernina embroidery machine at the Architecture’s School fablab, and we have teamed up with Rare Book School to print a limited edition poster with the letterpress technology of the enlightenment. Since these making techniques require equipment and specific know-how that may not be available to a broader audience we recently purchased a button press for an entry-level making experience. We are also planning to purchase a screen printing kit for students who want a more involved making experience.  
+
 What would you make with your students using ART? Don't hesitate to drop us a line, if you have questions or if you want to share your experience with us.         
 
 
