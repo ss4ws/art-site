@@ -18,6 +18,4 @@ categories:
 layout: single
 ---
 
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe8k0Su6G3Do6g6QCKgN1_wUmpNCShE4O3vU1R6S--XVO4nKA/viewform?embedded=true" width="640" height="1317" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[This link](https://forms.gle/JkdDdaxQJeyNViNL9) takes you to a Google Form where you can record the questions that you would like to see included in ART. Looking forward to reading your responses! 
