@@ -8,7 +8,7 @@ url: {{ replace .Name "-" " " | lower }}
 type: form
 layout: split-right # split-right or split-left
 submit_button_label: Send
-formspree_form_id:  ss4ws@virginia.edu
+formspree_form_id:  meqvlnkq
 show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 ---
